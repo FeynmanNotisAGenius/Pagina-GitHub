@@ -1,4 +1,7 @@
-title: "Segunda publicación"
+title: "Primera publicación"
 date: 2025-03-27
 
-Manteniendo el ritmo de aprendizaje no es motivación, es disciplina
+
+Aprendiendo a crear un blog usando la tecnología de Git
+
+
